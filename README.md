@@ -9,4 +9,4 @@
 We have 2 ways to setting up Airflow. Please read in the `setup` part.
 
 ## Getting started
-Read my example in `dags` folder.
+Read my examples in `dags` folder.
